@@ -1,0 +1,2 @@
+﻿  Source.cpp
+LINK : fatal error LNK1168: cannot open Z:\CSC114\Project1\Debug\Project1.exe for writing
